@@ -11,11 +11,6 @@ for num in range (1,10+1):
 # create a heterogenous list of numbers and names split the list from  highest number  
 #add two numbers at 3rd position and append one list and then split
 
-list=[1,4,6,7,"janhavi","sanjana","pratik","ruturaj"]
-max=0
-for i in list:
-    max= 
-print(list.partition())
 
 
 
